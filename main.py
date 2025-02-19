@@ -5,4 +5,4 @@ d=10
 e=1
 f=2
 print(a+b+c+d+e+f)
-print ("vtoraya vetka")
+print ("vtoraya vetka v meine")
